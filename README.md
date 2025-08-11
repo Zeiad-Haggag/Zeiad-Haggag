@@ -52,6 +52,14 @@ I combine **modern front-end experiences** with **robust backend architecture** 
 <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /></a>
 </p>
 
+**Computer Science Fundamentals:**  
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Data%20Structures-FF6F00?style=flat&logo=structure&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Algorithms-4B8CF7?style=flat&logo=codeforces&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OOP-FF4088?style=flat&logo=object-group&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Problem%20Solving-00C853?style=flat&logo=theconversation&logoColor=white" /></a>
+</p>
+
 **DevOps & Tools**
 <p>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
