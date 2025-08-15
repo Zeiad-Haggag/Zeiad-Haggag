@@ -3,6 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4B8CF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Zeiad+Haggag;Full+Stack+Web+Developer;React.js+%2B+ASP.NET+Core+Specialist;Passionate+Problem+Solver+%26+Clean+Code+Advocate" alt="Typing SVG" />
 </div>
 
+<!-- 3D Portfolio Link -->
+<div align="center">
+  <a href="https://dev-folio-3-d.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 View%20My%203D%20Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="3D Portfolio" />
+  </a>
+</div>
 ---
 
 ### 💡 Who Am I?
