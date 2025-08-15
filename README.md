@@ -5,9 +5,9 @@
 
 <!-- 3D Portfolio Link -->
 <div align="center">
-  <a href="https://dev-folio-3-d.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 View%20My%203D%20Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="3D Portfolio" />
-  </a>
+
+### 🚀 **[🌐 Visit My Portfolio](https://your-portfolio-link.com)**
+
 </div>
 ---
 
